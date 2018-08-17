@@ -47,6 +47,17 @@ body
       background-image:url(https://images.pexels.com/photos/892541/pexels-photo-892541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     }
     
+    header {
+  height: 50px;
+  color: white;
+  border-style: solid;
+  border-width: 10px;
+  position: fixed;
+  width: 100%;
+  background: black;
+  opacity: 0.5;
+}
+    
     .home {
       background-image:url(https://images.pexels.com/photos/35600/road-sun-rays-path.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     }
