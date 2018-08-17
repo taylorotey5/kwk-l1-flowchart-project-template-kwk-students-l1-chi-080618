@@ -1,0 +1,56 @@
+header {
+  height: 50px;
+  color: white;
+  border-style: solid;
+  border-width: 10px;
+  position: fixed;
+  width: 100%;
+  background: black;
+  opacity: 0.5;
+}
+
+h1 {
+  margin-top: 100px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  list-style-type: none;
+}
+
+body
+    {
+    width: 100%;
+    height: 100%;
+    background-image:url(https://images.pexels.com/photos/35600/road-sun-rays-path.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+    background-attachment:fixed;
+    margin: 0;
+    padding: 0;
+
+    }
+
+    html {
+      color: white;
+    }
+    
+    .isabel {
+      background-image:url(https://images.pexels.com/photos/589802/pexels-photo-589802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    }
+    
+    .home {
+      background-image:url(https://images.pexels.com/photos/35600/road-sun-rays-path.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    }
+    
+    .taylor {
+      background-image:url(https://images.pexels.com/photos/462149/pexels-photo-462149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    }
+    
+    .jiaming {
+      background-image:url(https://images.pexels.com/photos/40797/wild-flowers-flowers-plant-macro-40797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+    }
+ 
